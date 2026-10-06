@@ -44,7 +44,11 @@
 <h2 align="center">📊 <i>Statistics</i></h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebasv27&bg_color=0f172a&color=e2e8f0&line=5eead4&point=a78bfa&area=true&area_color=134e4a&hide_border=true&custom_title=Sebs%20Contribution%20Graph" width="100%" alt="contribution graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebasv27/sebasv27/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebasv27/sebasv27/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/sebasv27/sebasv27/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
@@ -54,7 +58,7 @@
 <img align="left" src="./avatar.png" width="220" alt="avatar"/>
 
 <p align="center">
-Hi! I'm <b>Juan Sebastián Villegas</b> (Sebs), a developer from <b>Medellín, Colombia</b> 🇨🇴 transitioning from 5+ years in IT support into <b>full stack development</b>. I'm studying <b>Computer Engineering</b> at Universidad de Envigado.
+Hi! I'm <b>Juan Sebastián Villegas</b> (Sebs), a developer from <b>Medellín, Colombia</b> transitioning from 5+ years in IT support into <b>full stack development</b>. I'm studying <b>Computer Engineering</b> at Universidad de Envigado.
 <br/><br/>
 I build real products end to end with <b>React, TypeScript, Node.js and PostgreSQL</b> — like <b>Control de Gastos</b>, a personal finance & fitness app with AI receipt scanning, bank notification parsing on Android and automated weekly reports.
 </p>

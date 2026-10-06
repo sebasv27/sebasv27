@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:134e4a,100:4c1d95&text=Welcome%20to%20Sebs's%20GitHub&fontColor=e2e8f0&fontSize=36&fontAlignY=38&desc=%3C%2F%3E&descAlignY=58&descSize=22&animation=fadeIn&section=header" width="100%" alt="banner"/>
+  <img src="./banner.svg" width="100%" alt="banner"/>
 </div>
 
 <!-- Links -->
@@ -44,7 +44,7 @@
 <h2 align="center">📊 <i>Statistics</i></h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebasv27&bg_color=0f172a&color=e2e8f0&line=5eead4&point=a78bfa&area=true&area_color=134e4a&hide_border=true&custom_title=Sebs's%20Contribution%20Graph" width="100%" alt="contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebasv27&bg_color=0f172a&color=e2e8f0&line=5eead4&point=a78bfa&area=true&area_color=134e4a&hide_border=true&custom_title=Sebs%20Contribution%20Graph" width="100%" alt="contribution graph"/>
 </div>
 
 <br/>
@@ -71,5 +71,3 @@ I build real products end to end with <b>React, TypeScript, Node.js and PostgreS
   🏋️ Gym · 📚 Learning every day · 🌎 Next stop: San Francisco
 </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4c1d95,50:134e4a,100:0f172a&section=footer" width="100%"/>
